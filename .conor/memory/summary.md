@@ -15,6 +15,7 @@ Zettelkasten 기반 메모리 인덱스
 - [D-20260218-index-redesign](chunks/D-20260218-index-redesign.md) 인덱스 페이지: 캐러셀 → 사이드바+미리보기 레이아웃 | #index #design
 - [D-20260219-sketchomorphism](chunks/D-20260219-sketchomorphism.md) 핸드드로잉 UI → "스케치모피즘" 명명, 살아있고 인간적이되 불편하지 않은 시스템 | #sketchomorphism #naming
 - [D-20260219-trends-page-renewal](chunks/D-20260219-trends-page-renewal.md) 트렌드 페이지 리뉴얼: 비주얼 데모 → 철학+설명+근거를 함께 보여주는 구조 | #trends #renewal
+- [D-20260219-neon-page](chunks/D-20260219-neon-page.md) effect-typing→design-neon 전환, effect-blurry 글래스모피즘 중복 삭제 | #neon #page-consolidation
 
 ## Learnings
 - [L-20260218-iife-sourcemap-bug](chunks/L-20260218-iife-sourcemap-bug.md) IIFE + inline sourcemap = `})();`가 주석에 먹힘 → `\n` 필요 | #typescript #bug
