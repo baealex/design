@@ -16,8 +16,12 @@ Zettelkasten 기반 메모리 인덱스
 - [D-20260219-sketchomorphism](chunks/D-20260219-sketchomorphism.md) 핸드드로잉 UI → "스케치모피즘" 명명, 살아있고 인간적이되 불편하지 않은 시스템 | #sketchomorphism #naming
 - [D-20260219-trends-page-renewal](chunks/D-20260219-trends-page-renewal.md) 트렌드 페이지 리뉴얼: 비주얼 데모 → 철학+설명+근거를 함께 보여주는 구조 | #trends #renewal
 - [D-20260219-neon-page](chunks/D-20260219-neon-page.md) effect-typing→design-neon 전환, effect-blurry 글래스모피즘 중복 삭제 | #neon #page-consolidation
+- [D-20260220-year-naming](chunks/D-20260220-year-naming.md) 디렉토리명 `design-{연도}-{이름}` 형식 채택, 연도순 정렬 | #naming #convention #directory
+- [D-20260220-metadata-consistency](chunks/D-20260220-metadata-consistency.md) title/description/hero-badge 메타데이터 통일 규칙 확정 | #metadata #consistency
+- [D-20260221-description-copywriting](chunks/D-20260221-description-copywriting.md) description 카피라이팅: 핵심 한 줄+위트, 성공은 찬사/실패는 비꼼 톤 | #description #copywriting #tone
 
 ## Learnings
 - [L-20260218-iife-sourcemap-bug](chunks/L-20260218-iife-sourcemap-bug.md) IIFE + inline sourcemap = `})();`가 주석에 먹힘 → `\n` 필요 | #typescript #bug
 - [L-20260219-design-philosophy](chunks/L-20260219-design-philosophy.md) 우리는 아티스트이자 공학자 — 철학 없는 비주얼은 카피, 각 트렌드에 "왜"를 담아야 함 | #philosophy #identity
 - [L-20260219-design-trends-analysis](chunks/L-20260219-design-trends-analysis.md) 각 트렌드 페이지 3단 구조: ①왜 등장 ②왜 망했나 ③우리의 킥 제안 | #trends #analysis #structure
+- [L-20260221-ripple-button-overflow](chunks/L-20260221-ripple-button-overflow.md) `<button>` 리플: ripple-surface 컨테이너 + `:not()` 셀렉터로 충돌 방지 | #ripple #css #bug
