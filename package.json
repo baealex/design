@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "ts-node cli/dev.ts",
     "build": "ts-node cli/build.ts",
+    "ai:manifest": "ts-node cli/manifest.ts",
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "eslint --ext .ts,.js ./src"
   },

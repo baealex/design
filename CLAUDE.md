@@ -131,3 +131,12 @@
 </memory-system>
 
 <!-- END TEAM CONOR TEMPLATE -->
+
+<design-reference>
+    UI/프론트엔드 작업 시 아래 순서로 반드시 참조:
+    1. ai/README.md
+    2. ai/task-profiles.json
+    3. ai/design-manifest.json
+    4. 선택한 src/pages/<slug>/index.html
+    5. ai/output-checklist.md
+</design-reference>
